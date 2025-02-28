@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Player/StartCrouch.uasset",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Player/StopCrouch.uasset",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Player/BP_Player.uasset",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/DroneLevel.umap",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Drone/BP_Drone.uasset",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Explosion.uasset",
+				"E:/New Github Repositories/YasmineUnrealClass/YasmineUnrealClass/Content/Player/MyInputMappingContext.uasset",
 				"C:/Users/wkolako000/Documents/GitHub/YasmineUnrealClass/YasmineUnrealClass/Content/BP_Player.uasset",
 				"C:/Users/wkolako000/Documents/GitHub/YasmineUnrealClass/YasmineUnrealClass/Content/Blueprints/MyGameModeBase.uasset",
 				"C:/Users/wkolako000/Documents/GitHub/YasmineUnrealClass/YasmineUnrealClass/Content/Blueprint/BP_Drone.uasset",
